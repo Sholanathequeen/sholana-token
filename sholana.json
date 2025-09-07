@@ -1,15 +1,17 @@
 {
-  "chainId": 101,
-  "address": "Ddep8nVHEnKQH6vokgrTF77UZQfza5qGdz8suKerHgpE",
-  "symbol": "SHOL",
-  "name": "SHOLANA",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/Sholanathequeen/sholana-token/main/logo.png",
-  "tags": ["meme", "solana", "community"],
-  "extensions": {
-    "website": "https://t.me/sholana",
-    "twitter": "https://twitter.com/sholana",
-    "telegram": "https://t.me/sholana",
-    "description": "The Meme Queen of Solana. Savage. Mysterious. Unstoppable."
-  }
+    "name": "Sholana Token",
+    "symbol": "SHOL",
+    "decimals": 9,
+    "mint": "Ddep8nVHEnKQH6vokgrTF77UZQfza5qGdz8suKerHgpE",
+    "logoURI": "https://raw.githubusercontent.com/Sholanathequeen/sholana-token/main/assets/mainnet/Ddep8nVHEnKQH6vokgrTF77UZQfza5qGdz8suKerHgpE/logo.png",
+    "tags": [
+        "meme",
+        "community",
+        "fun"
+    ],
+    "extensions": {
+        "twitter": "https://twitter.com/sholanathequeen",
+        "telegram": "https://t.me/sholana",
+        "github": "https://github.com/Sholanathequeen/sholana-token"
+    }
 }
